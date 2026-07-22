@@ -7,6 +7,8 @@
 
 Personal, self-taught study notes on the **hardware side of embedded engineering** — electronics fundamentals, components, communication protocols, PCB design, and everything in between. Written from scratch while learning, organized as a **roadmap**: broad coverage first, depth added topic by topic as I actually study each one.
 
+The full mind map — all 25 topic areas with a short "what it is / why it matters" for each, plus the suggested study order — lives in **[ROADMAP.md](./ROADMAP.md)**. The table below mirrors that structure and tracks which sections actually have notes written so far.
+
 I'm not doing this for a bootcamp or a course. I'm doing it because I already have a solid software background (C/C++, FreeRTOS, NVS, OTA, driver-level firmware work) but wanted to properly understand the hardware side — why a wire goes to a specific pin, why a specific component is chosen, how to read a datasheet and actually reason about a schematic instead of just copying it. This repo is the trail I'm leaving behind while closing that gap.
 
 If you're also starting out in embedded hardware, feel free to use this as a roadmap for what to study and in what order. If you spot a mistake, please open an issue or a PR — I'd genuinely rather be corrected than have wrong notes sitting here.
@@ -50,29 +52,34 @@ Legend: ✅ done · 🔄 in progress · ⬜ not started yet
 
 | # | Section | Notes | Flashcards | Status |
 |---|---|---|---|---|
-| 00 | Prerequisites (basic electrical physics) | [notes.md](./00-prerequisites/notes.md) | [flashcards](./00-prerequisites/flashcards/) | ⬜ |
-| 01 | Passive Components (R, L, C) | [notes.md](./01-passive-components/notes.md) | [flashcards](./01-passive-components/flashcards/) | 🔄 |
-| 02 | Semiconductors & Basic Analog | [notes.md](./02-semiconductors-analog/notes.md) | [flashcards](./02-semiconductors-analog/flashcards/) | ⬜ |
-| 03 | Digital Logic Circuits | [notes.md](./03-digital-logic/notes.md) | [flashcards](./03-digital-logic/flashcards/) | ⬜ |
-| 04 | Power Management | [notes.md](./04-power-management/notes.md) | [flashcards](./04-power-management/flashcards/) | ⬜ |
-| 05 | Circuit Protection & Stability | [notes.md](./05-protection-stability/notes.md) | [flashcards](./05-protection-stability/flashcards/) | ⬜ |
-| 06 | Clocks & Timing | [notes.md](./06-clock-timing/notes.md) | [flashcards](./06-clock-timing/flashcards/) | ⬜ |
-| 07 | MCU Interfaces (GPIO/ADC/DAC/PWM) | [notes.md](./07-mcu-interfaces/notes.md) | [flashcards](./07-mcu-interfaces/flashcards/) | ⬜ |
-| 08 | Wired Communication Protocols | [notes.md](./08-wired-protocols/notes.md) | [flashcards](./08-wired-protocols/flashcards/) | ⬜ |
-| 09 | Wireless Communication & RF | [notes.md](./09-wireless-rf/notes.md) | [flashcards](./09-wireless-rf/flashcards/) | ⬜ |
-| 10 | Sensors | [notes.md](./10-sensors/notes.md) | [flashcards](./10-sensors/flashcards/) | ⬜ |
-| 11 | Actuators & Motors | [notes.md](./11-actuators-motors/notes.md) | [flashcards](./11-actuators-motors/flashcards/) | ⬜ |
-| 12 | PCB Design | [notes.md](./12-pcb-design/notes.md) | [flashcards](./12-pcb-design/flashcards/) | ⬜ |
-| 13 | Signal Integrity & EMI/EMC | [notes.md](./13-signal-integrity-emc/notes.md) | [flashcards](./13-signal-integrity-emc/flashcards/) | ⬜ |
-| 14 | Assembly & Soldering | [notes.md](./14-assembly-soldering/notes.md) | [flashcards](./14-assembly-soldering/flashcards/) | ⬜ |
-| 15 | Test & Debug Tools | [notes.md](./15-test-debug-tools/notes.md) | [flashcards](./15-test-debug-tools/flashcards/) | ⬜ |
-| 16 | Datasheet Reading & Component Selection | [notes.md](./16-datasheet-component-selection/notes.md) | [flashcards](./16-datasheet-component-selection/flashcards/) | ⬜ |
-| 17 | Connectors, Cables & Wiring | [notes.md](./17-connectors-wiring/notes.md) | [flashcards](./17-connectors-wiring/flashcards/) | ⬜ |
-| 18 | Thermal Management & Mechanical Enclosure | [notes.md](./18-thermal-mechanical/notes.md) | [flashcards](./18-thermal-mechanical/flashcards/) | ⬜ |
-| 19 | Standards, Safety & Regulatory | [notes.md](./19-standards-safety/notes.md) | [flashcards](./19-standards-safety/flashcards/) | ⬜ |
-| 20 | Advanced Specialized Topics | [notes.md](./20-advanced-topics/notes.md) | [flashcards](./20-advanced-topics/flashcards/) | ⬜ |
+| 01 | Electricity Fundamentals & Basic Laws | [notes.md](./01-electricity-fundamentals/notes.md) | [flashcards](./01-electricity-fundamentals/flashcards/) | 🔄 |
+| 02 | Passive Components | [notes.md](./02-passive-components/notes.md) | [flashcards](./02-passive-components/flashcards/) | ⬜ |
+| 03 | Discrete Active Components | [notes.md](./03-discrete-active-components/notes.md) | [flashcards](./03-discrete-active-components/flashcards/) | ⬜ |
+| 04 | Power Electronics & Power Supply | [notes.md](./04-power-electronics/notes.md) | [flashcards](./04-power-electronics/flashcards/) | ⬜ |
+| 05 | Protection Circuits | [notes.md](./05-protection-circuits/notes.md) | [flashcards](./05-protection-circuits/flashcards/) | ⬜ |
+| 06 | Digital Logic & GPIO Concepts | [notes.md](./06-digital-logic-gpio/notes.md) | [flashcards](./06-digital-logic-gpio/flashcards/) | ⬜ |
+| 07 | Serial Communication Protocols & Buses | [notes.md](./07-communication-protocols/notes.md) | [flashcards](./07-communication-protocols/flashcards/) | ⬜ |
+| 08 | Memory Technologies | [notes.md](./08-memory-technologies/notes.md) | [flashcards](./08-memory-technologies/flashcards/) | ⬜ |
+| 09 | Clock, Timing & Reset | [notes.md](./09-clock-timing-reset/notes.md) | [flashcards](./09-clock-timing-reset/flashcards/) | ⬜ |
+| 10 | Analog↔Digital Conversion & Signal Conditioning | [notes.md](./10-adc-dac-signal-conditioning/notes.md) | [flashcards](./10-adc-dac-signal-conditioning/flashcards/) | ⬜ |
+| 11 | Sensors | [notes.md](./11-sensors/notes.md) | [flashcards](./11-sensors/flashcards/) | ⬜ |
+| 12 | Actuators & Motor Drivers | [notes.md](./12-actuators-motor-drivers/notes.md) | [flashcards](./12-actuators-motor-drivers/flashcards/) | ⬜ |
+| 13 | PCB Design & Layout | [notes.md](./13-pcb-design-layout/notes.md) | [flashcards](./13-pcb-design-layout/flashcards/) | ⬜ |
+| 14 | Signal Integrity & EMI/EMC | [notes.md](./14-signal-integrity-emc/notes.md) | [flashcards](./14-signal-integrity-emc/flashcards/) | ⬜ |
+| 15 | Grounding & On-Board Power Distribution | [notes.md](./15-grounding-power-distribution/notes.md) | [flashcards](./15-grounding-power-distribution/flashcards/) | ⬜ |
+| 16 | Thermal Management | [notes.md](./16-thermal-management/notes.md) | [flashcards](./16-thermal-management/flashcards/) | ⬜ |
+| 17 | Battery & Power Management | [notes.md](./17-battery-power-management/notes.md) | [flashcards](./17-battery-power-management/flashcards/) | ⬜ |
+| 18 | RF & Wireless Fundamentals | [notes.md](./18-rf-wireless-fundamentals/notes.md) | [flashcards](./18-rf-wireless-fundamentals/flashcards/) | ⬜ |
+| 19 | Reading Datasheets, Schematics & Footprints | [notes.md](./19-datasheet-schematic-reading/notes.md) | [flashcards](./19-datasheet-schematic-reading/flashcards/) | ⬜ |
+| 20 | Prototyping, Soldering & Lab Equipment | [notes.md](./20-prototyping-soldering-lab-equipment/notes.md) | [flashcards](./20-prototyping-soldering-lab-equipment/flashcards/) | ⬜ |
+| 21 | Hardware Debugging | [notes.md](./21-hardware-debugging/notes.md) | [flashcards](./21-hardware-debugging/flashcards/) | ⬜ |
+| 22 | Reliability, Testing & DFM/DFT | [notes.md](./22-reliability-testing-dfm-dft/notes.md) | [flashcards](./22-reliability-testing-dfm-dft/flashcards/) | ⬜ |
+| 23 | Standards, Safety & Certification | [notes.md](./23-standards-safety-certification/notes.md) | [flashcards](./23-standards-safety-certification/flashcards/) | ⬜ |
+| 24 | Hardware Project Management | [notes.md](./24-hardware-project-management/notes.md) | [flashcards](./24-hardware-project-management/flashcards/) | ⬜ |
 
-> This table is the single source of truth for progress. Every time a section is added or updated, this table and the entry below get updated in the same commit.
+> Section 25 of the roadmap ("Suggested Study Path") isn't a topic folder — it's a meta guide on *what order* to go through sections 1–24 in. It only lives inside [ROADMAP.md](./ROADMAP.md).
+>
+> This table is the single source of truth for progress. Every time a section is added or updated, this table and the changelog entry below get updated in the same commit.
 
 ---
 
@@ -86,7 +93,8 @@ A running log of what was added, newest first. Copy the line template below when
 
 **Log:**
 
-- 2026-07-22 — Added `01-passive-components/notes.md` (full notes) and `01-passive-components/flashcards/` (20 interview-focused flashcards).
+- 2026-07-22 — Added `ROADMAP.md`, the full 25-section mind map this README is now structured around.
+- 2026-07-22 — Added `01-electricity-fundamentals/notes.md` (full notes) and `01-electricity-fundamentals/flashcards/` (20 interview-focused flashcards).
 
 ---
 
