@@ -52,30 +52,30 @@ Legend: ✅ done · 🔄 in progress · ⬜ not started yet
 
 | # | Section | Notes | Flashcards | Status |
 |---|---|---|---|---|
-| 01 | Electricity Fundamentals & Basic Laws | [notes.md](./01-electricity-fundamentals/notes.md) | [flashcards](./01-electricity-fundamentals/flashcards/) | ✅ |
-| 02 | Passive Components | [notes.md](./02-passive-components/notes.md) | [flashcards](./02-passive-components/flashcards/) | 🔄 |
-| 03 | Discrete Active Components | [notes.md](./03-discrete-active-components/notes.md) | [flashcards](./03-discrete-active-components/flashcards/) | ⬜ |
-| 04 | Power Electronics & Power Supply | [notes.md](./04-power-electronics/notes.md) | [flashcards](./04-power-electronics/flashcards/) | ⬜ |
-| 05 | Protection Circuits | [notes.md](./05-protection-circuits/notes.md) | [flashcards](./05-protection-circuits/flashcards/) | ⬜ |
-| 06 | Digital Logic & GPIO Concepts | [notes.md](./06-digital-logic-gpio/notes.md) | [flashcards](./06-digital-logic-gpio/flashcards/) | ⬜ |
-| 07 | Serial Communication Protocols & Buses | [notes.md](./07-communication-protocols/notes.md) | [flashcards](./07-communication-protocols/flashcards/) | ⬜ |
-| 08 | Memory Technologies | [notes.md](./08-memory-technologies/notes.md) | [flashcards](./08-memory-technologies/flashcards/) | ⬜ |
-| 09 | Clock, Timing & Reset | [notes.md](./09-clock-timing-reset/notes.md) | [flashcards](./09-clock-timing-reset/flashcards/) | ⬜ |
-| 10 | Analog↔Digital Conversion & Signal Conditioning | [notes.md](./10-adc-dac-signal-conditioning/notes.md) | [flashcards](./10-adc-dac-signal-conditioning/flashcards/) | ⬜ |
-| 11 | Sensors | [notes.md](./11-sensors/notes.md) | [flashcards](./11-sensors/flashcards/) | ⬜ |
-| 12 | Actuators & Motor Drivers | [notes.md](./12-actuators-motor-drivers/notes.md) | [flashcards](./12-actuators-motor-drivers/flashcards/) | ⬜ |
-| 13 | PCB Design & Layout | [notes.md](./13-pcb-design-layout/notes.md) | [flashcards](./13-pcb-design-layout/flashcards/) | ⬜ |
-| 14 | Signal Integrity & EMI/EMC | [notes.md](./14-signal-integrity-emc/notes.md) | [flashcards](./14-signal-integrity-emc/flashcards/) | ⬜ |
-| 15 | Grounding & On-Board Power Distribution | [notes.md](./15-grounding-power-distribution/notes.md) | [flashcards](./15-grounding-power-distribution/flashcards/) | ⬜ |
-| 16 | Thermal Management | [notes.md](./16-thermal-management/notes.md) | [flashcards](./16-thermal-management/flashcards/) | ⬜ |
-| 17 | Battery & Power Management | [notes.md](./17-battery-power-management/notes.md) | [flashcards](./17-battery-power-management/flashcards/) | ⬜ |
-| 18 | RF & Wireless Fundamentals | [notes.md](./18-rf-wireless-fundamentals/notes.md) | [flashcards](./18-rf-wireless-fundamentals/flashcards/) | ⬜ |
-| 19 | Reading Datasheets, Schematics & Footprints | [notes.md](./19-datasheet-schematic-reading/notes.md) | [flashcards](./19-datasheet-schematic-reading/flashcards/) | ⬜ |
-| 20 | Prototyping, Soldering & Lab Equipment | [notes.md](./20-prototyping-soldering-lab-equipment/notes.md) | [flashcards](./20-prototyping-soldering-lab-equipment/flashcards/) | ⬜ |
-| 21 | Hardware Debugging | [notes.md](./21-hardware-debugging/notes.md) | [flashcards](./21-hardware-debugging/flashcards/) | ⬜ |
-| 22 | Reliability, Testing & DFM/DFT | [notes.md](./22-reliability-testing-dfm-dft/notes.md) | [flashcards](./22-reliability-testing-dfm-dft/flashcards/) | ⬜ |
-| 23 | Standards, Safety & Certification | [notes.md](./23-standards-safety-certification/notes.md) | [flashcards](./23-standards-safety-certification/flashcards/) | ⬜ |
-| 24 | Hardware Project Management | [notes.md](./24-hardware-project-management/notes.md) | [flashcards](./24-hardware-project-management/flashcards/) | ⬜ |
+| 01 | Electricity Fundamentals & Basic Laws | [notes.md](./01-electricity-fundamentals/notes.md) | [flashcards](./01-electricity-fundamentals/flashcards.md/) | ✅ |
+| 02 | Passive Components | [notes.md](./02-passive-components/notes.md) | [flashcards](./02-passive-components/flashcards.md/) | 🔄 |
+| 03 | Discrete Active Components | [notes.md](./03-discrete-active-components/notes.md) | [flashcards](./03-discrete-active-components/flashcards.md/) | ⬜ |
+| 04 | Power Electronics & Power Supply | [notes.md](./04-power-electronics/notes.md) | [flashcards](./04-power-electronics/flashcards.md/) | ⬜ |
+| 05 | Protection Circuits | [notes.md](./05-protection-circuits/notes.md) | [flashcards](./05-protection-circuits/flashcards.md/) | ⬜ |
+| 06 | Digital Logic & GPIO Concepts | [notes.md](./06-digital-logic-gpio/notes.md) | [flashcards](./06-digital-logic-gpio/flashcards.md/) | ⬜ |
+| 07 | Serial Communication Protocols & Buses | [notes.md](./07-communication-protocols/notes.md) | [flashcards](./07-communication-protocols/flashcards.md/) | ⬜ |
+| 08 | Memory Technologies | [notes.md](./08-memory-technologies/notes.md) | [flashcards](./08-memory-technologies/flashcards.md/) | ⬜ |
+| 09 | Clock, Timing & Reset | [notes.md](./09-clock-timing-reset/notes.md) | [flashcards](./09-clock-timing-reset/flashcards.md/) | ⬜ |
+| 10 | Analog↔Digital Conversion & Signal Conditioning | [notes.md](./10-adc-dac-signal-conditioning/notes.md) | [flashcards](./10-adc-dac-signal-conditioning/flashcards.md/) | ⬜ |
+| 11 | Sensors | [notes.md](./11-sensors/notes.md) | [flashcards](./11-sensors/flashcards.md/) | ⬜ |
+| 12 | Actuators & Motor Drivers | [notes.md](./12-actuators-motor-drivers/notes.md) | [flashcards](./12-actuators-motor-drivers/flashcards.md/) | ⬜ |
+| 13 | PCB Design & Layout | [notes.md](./13-pcb-design-layout/notes.md) | [flashcards](./13-pcb-design-layout/flashcards.md/) | ⬜ |
+| 14 | Signal Integrity & EMI/EMC | [notes.md](./14-signal-integrity-emc/notes.md) | [flashcards](./14-signal-integrity-emc/flashcards.md/) | ⬜ |
+| 15 | Grounding & On-Board Power Distribution | [notes.md](./15-grounding-power-distribution/notes.md) | [flashcards](./15-grounding-power-distribution/flashcards.md/) | ⬜ |
+| 16 | Thermal Management | [notes.md](./16-thermal-management/notes.md) | [flashcards](./16-thermal-management/flashcards.md/) | ⬜ |
+| 17 | Battery & Power Management | [notes.md](./17-battery-power-management/notes.md) | [flashcards](./17-battery-power-management/flashcards.md/) | ⬜ |
+| 18 | RF & Wireless Fundamentals | [notes.md](./18-rf-wireless-fundamentals/notes.md) | [flashcards](./18-rf-wireless-fundamentals/flashcards.md/) | ⬜ |
+| 19 | Reading Datasheets, Schematics & Footprints | [notes.md](./19-datasheet-schematic-reading/notes.md) | [flashcards](./19-datasheet-schematic-reading/flashcards.md/) | ⬜ |
+| 20 | Prototyping, Soldering & Lab Equipment | [notes.md](./20-prototyping-soldering-lab-equipment/notes.md) | [flashcards](./20-prototyping-soldering-lab-equipment/flashcards.md/) | ⬜ |
+| 21 | Hardware Debugging | [notes.md](./21-hardware-debugging/notes.md) | [flashcards](./21-hardware-debugging/flashcards.md/) | ⬜ |
+| 22 | Reliability, Testing & DFM/DFT | [notes.md](./22-reliability-testing-dfm-dft/notes.md) | [flashcards](./22-reliability-testing-dfm-dft/flashcards.md/) | ⬜ |
+| 23 | Standards, Safety & Certification | [notes.md](./23-standards-safety-certification/notes.md) | [flashcards](./23-standards-safety-certification/flashcards.md/) | ⬜ |
+| 24 | Hardware Project Management | [notes.md](./24-hardware-project-management/notes.md) | [flashcards](./24-hardware-project-management/flashcards.md/) | ⬜ |
 
 > Section 25 of the roadmap ("Suggested Study Path") isn't a topic folder — it's a meta guide on *what order* to go through sections 1–24 in. It only lives inside [ROADMAP.md](./ROADMAP.md).
 >
