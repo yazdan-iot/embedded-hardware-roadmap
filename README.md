@@ -1,7 +1,7 @@
 # Embedded Hardware Engineering Roadmap
 
 ![Status](https://img.shields.io/badge/status-work%20in%20progress-yellow)
-![Notes Language](https://img.shields.io/badge/notes%20language-Persian%20(Farsi)-blue)
+![Notes Language](https://img.shields.io/badge/notes%20language-English-blue)
 ![Flashcards](https://img.shields.io/badge/flashcards-Anki-1E90FF)
 ![AI Assisted](https://img.shields.io/badge/drafted%20with-Claude%20(Anthropic)-8A2BE2)
 
