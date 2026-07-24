@@ -54,7 +54,7 @@ Legend: ✅ done · 🔄 in progress · ⬜ not started yet
 |---|---|---|---|---|
 | 01 | Electricity Fundamentals & Basic Laws | [notes.md](./01-electricity-fundamentals/notes.md) | [flashcards](./01-electricity-fundamentals/flashcards.md/) | ✅ |
 | 02 | Passive Components | [notes.md](./02-passive-components/notes.md) | [flashcards](./02-passive-components/flashcards.md/) | ✅ |
-| 03 | Discrete Active Components | [notes.md](./03-discrete-active-components/notes.md) | [flashcards](./03-discrete-active-components/flashcards.md/) | ⬜ |
+| 03 | Discrete Active Components | [notes.md](./03-discrete-active-components/notes.md) | [flashcards](./03-discrete-active-components/flashcards.md/) | 🔄 |
 | 04 | Power Electronics & Power Supply | [notes.md](./04-power-electronics/notes.md) | [flashcards](./04-power-electronics/flashcards.md/) | ⬜ |
 | 05 | Protection Circuits | [notes.md](./05-protection-circuits/notes.md) | [flashcards](./05-protection-circuits/flashcards.md/) | ⬜ |
 | 06 | Digital Logic & GPIO Concepts | [notes.md](./06-digital-logic-gpio/notes.md) | [flashcards](./06-digital-logic-gpio/flashcards.md/) | ⬜ |
