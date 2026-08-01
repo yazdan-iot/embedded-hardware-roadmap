@@ -62,8 +62,8 @@ Legend: ✅ done · 🔄 in progress · ⬜ not started yet
 | 08 | Memory Technologies | [notes.md](./08-memory-technologies/notes.md) | [flashcards](./08-memory-technologies/flashcards.md/) | ⬜ |
 | 09 | Clock, Timing & Reset | [notes.md](./09-clock-timing-reset/notes.md) | [flashcards](./09-clock-timing-reset/flashcards.md/) | ⬜ |
 | 10 | Analog↔Digital Conversion & Signal Conditioning | [notes.md](./10-adc-dac-signal-conditioning/notes.md) | [flashcards](./10-adc-dac-signal-conditioning/flashcards.md/) | ✅ |
-| 11 | Sensors | [notes.md](./11-sensors/notes.md) | [flashcards](./11-sensors/flashcards.md/) | 🔄 |
-| 12 | Actuators & Motor Drivers | [notes.md](./12-actuators-motor-drivers/notes.md) | [flashcards](./12-actuators-motor-drivers/flashcards.md/) | ⬜ |
+| 11 | Sensors | [notes.md](./11-sensors/notes.md) | [flashcards](./11-sensors/flashcards.md/) | ✅ |
+| 12 | Actuators & Motor Drivers | [notes.md](./12-actuators-motor-drivers/notes.md) | [flashcards](./12-actuators-motor-drivers/flashcards.md/) | 🔄 |
 | 13 | PCB Design & Layout | [notes.md](./13-pcb-design-layout/notes.md) | [flashcards](./13-pcb-design-layout/flashcards.md/) | ⬜ |
 | 14 | Signal Integrity & EMI/EMC | [notes.md](./14-signal-integrity-emc/notes.md) | [flashcards](./14-signal-integrity-emc/flashcards.md/) | ⬜ |
 | 15 | Grounding & On-Board Power Distribution | [notes.md](./15-grounding-power-distribution/notes.md) | [flashcards](./15-grounding-power-distribution/flashcards.md/) | ⬜ |
