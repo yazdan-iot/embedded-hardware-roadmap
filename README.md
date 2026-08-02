@@ -59,7 +59,7 @@ Legend: ✅ done · 🔄 in progress · ⬜ not started yet
 | 05 | Protection Circuits | [notes.md](./05-protection-circuits/notes.md) | [flashcards](./05-protection-circuits/flashcards.md/) | ✅ |
 | 06 | Digital Logic & GPIO Concepts | [notes.md](./06-digital-logic-gpio/notes.md) | [flashcards](./06-digital-logic-gpio/flashcards.md/) | ✅ |
 | 07 | Serial Communication Protocols & Buses | [notes.md](./07-communication-protocols/notes.md) | [flashcards](./07-communication-protocols/flashcards.md/) | ✅ |
-| 08 | Memory Technologies | [notes.md](./08-memory-technologies/notes.md) | [flashcards](./08-memory-technologies/flashcards.md/) | ⬜ |
+| 08 | Memory Technologies | [notes.md](./08-memory-technologies/notes.md) | [flashcards](./08-memory-technologies/flashcards.md/) | 🔄 |
 | 09 | Clock, Timing & Reset | [notes.md](./09-clock-timing-reset/notes.md) | [flashcards](./09-clock-timing-reset/flashcards.md/) | ⬜ |
 | 10 | Analog↔Digital Conversion & Signal Conditioning | [notes.md](./10-adc-dac-signal-conditioning/notes.md) | [flashcards](./10-adc-dac-signal-conditioning/flashcards.md/) | ✅ |
 | 11 | Sensors | [notes.md](./11-sensors/notes.md) | [flashcards](./11-sensors/flashcards.md/) | ✅ |
